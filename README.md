@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking forward to learn more about data science.
 - ⚡ Fun fact: I have a Bachelor of Pharmacy.
 ### Languages and Tools:
-![image](https://github.com/AbdalrahmanSaadat/AbdalrahmanSaadat/assets/139587515/6954264c-4513-4904-9310-134d2eb47ed2)
-VS code
+![image](https://github.com/AbdalrahmanSaadat/AbdalrahmanSaadat/assets/139587515/6954264c-4513-4904-9310-134d2eb47ed2) VS code
+
 
 
 
