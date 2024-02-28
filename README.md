@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-### I'm a Full-Stack Developer.
+### I'm a Python Developer.
 - 🔭 I’m currently working as a freelancer.
 - 👯 I’m looking to collaborate with others on Big projects.
-- 🤔 I’m looking forward to learn about data science.
+- 🤔 I’m looking forward to learn more about data science.
 - ⚡ Fun fact: I have a Bachelor of Pharmacy.
 ### Languages and Tools:
 ![image](https://github.com/AbdalrahmanSaadat/AbdalrahmanSaadat/assets/139587515/abff76f5-2da5-443d-95a7-1af9abcc599b)
