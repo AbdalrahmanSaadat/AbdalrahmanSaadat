@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 ### I'm a Python Developer.
-- 🔭 I’m currently working as a freelancer.
-- 👯 I’m looking to collaborate with others on Big projects.
-- 🤔 I’m looking forward to learn more about data science.
+- 🔭 I’m currently working as Python Backend (FstAPI & Django) & DevOps Engineer.
+- 🤔 I’m exploring AI agents, cloud infrastructure, and system automation.
+- 🐳 I work daily with Docker, Nginx, PostgreSQL & CI/CD pipelines.
 - ⚡ Fun fact: I have a Bachelor of Pharmacy.
 ### Languages and Tools:
 ![image](https://github.com/AbdalrahmanSaadat/AbdalrahmanSaadat/assets/139587515/6954264c-4513-4904-9310-134d2eb47ed2)
