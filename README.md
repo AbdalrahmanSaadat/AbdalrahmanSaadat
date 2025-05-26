@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ### I'm a Python Developer.
-- 🔭 I’m currently working as Python Backend (FstAPI & Django) & DevOps Engineer.
+- 🔭 I’m currently working as Python Backend Developer (FstAPI & Django) & DevOps Engineer.
 - 🤔 I’m exploring AI agents, cloud infrastructure, and system automation.
 - 🐳 I work daily with Docker, Nginx, PostgreSQL & CI/CD pipelines.
 - ⚡ Fun fact: I have a Bachelor of Pharmacy.
